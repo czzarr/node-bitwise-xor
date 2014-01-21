@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/czzarr/node-bitwise-xor/issues"
   },
-  "homepage": "https://github.com/czzarr/node-bitwise-xor"
+  "homepage": "https://github.com/czzarr/node-bitwise-xor",
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "chai": "~1.8.1",
+    "buffer-equal": "0.0.0"
+  }
 }
