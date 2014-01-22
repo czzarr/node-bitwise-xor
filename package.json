@@ -1,6 +1,6 @@
 {
   "name": "bitwise-xor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bitwise XOR between two Buffers or Strings, returns a Buffer",
   "main": "index.js",
   "scripts": {
