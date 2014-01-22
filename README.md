@@ -1,7 +1,7 @@
 # node-bitwise-xor
 
  [![Build
-Status](https://travis-ci.org/czzarr/node-interval-stream.png)](https://travis-ci.org/czzarr/node-bitwise-xor)
+Status](https://travis-ci.org/czzarr/node-bitwise-xor.png)](https://travis-ci.org/czzarr/node-bitwise-xor)
 
 Returns a Buffer of the result of bitwise XOR operation between two
 Buffers or Strings
